@@ -1,0 +1,37 @@
+
+.menu-cataloge{
+    margin: 100px 0px 10px 0px;
+    display:flex;
+    justify-items: center;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+    border: 1px solid;
+}
+.food-position{
+    flex-flow: row wrap;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    flex-direction:row;
+    flex-wrap: wrap;
+    height: 250px;
+    width: 200px;
+    margin: 10px 10px 10px 10px;
+   
+}
+.food-position:hover{
+    box-shadow: 1px 1px 15px black;
+} 
+
+.img-position{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    font-size: 21px;
+}
+
+.food-description{
+    display:flex;
+}   
